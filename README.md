@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Master's thesis**
 - 🌱 I’m currently learning **TensorFlow, PyTorch**
-- 🤝 I’m looking for a job as Data **Scientist/Data Analyst**
+- 🤝 I’m looking for a job as **Data Scientist/Data Analyst**
 - 🏙️ Where? **Lublin, Warsaw (hybrid), remotely**
 
 <div align="center"> 
