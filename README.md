@@ -4,7 +4,6 @@
 <h3 align="center">Final year IT student from Poland with a strong interest in data</h3>
 
 - 🔭 I’m currently working on **my Master's thesis**
-- 🌱 I’m currently learning **TensorFlow, PyTorch**
 - 🤝 I’m looking for a job as **Data Scientist/Data Analyst**
 - 🏙️ Where? **Lublin, Warsaw (hybrid), remotely**
 
