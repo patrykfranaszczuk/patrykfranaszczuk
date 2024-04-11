@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Patryk;" />
 </h1>
-<h3 align="center">Final year IT student from Poland with a strong interest in data</h3>
+<h3 align="center">Final year IT student with a strong interest in data field!</h3>
 
 - 🔭 I’m currently working on **my Master's thesis**
 - 🤝 I’m looking for a job as **Data Scientist/Data Analyst**
