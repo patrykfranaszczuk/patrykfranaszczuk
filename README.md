@@ -4,7 +4,7 @@
 <h3 align="center">Final year IT student with a strong interest in data field!</h3>
 
 - 🔭 I’m currently working on **my Master's thesis**
-- 🤝 I’m looking for a job as **Data Scientist/Data Analyst**
+- 🤝 I’m looking for a job as **Data Scientist/Data Analyst/Data Engineer**
 - 🏙️ Where? **Lublin, Warsaw (hybrid), remotely**
 
 <div align="center"> 
@@ -16,11 +16,14 @@
   </a>
 </div>
 
-<h3 align="left">Data science skills:</h3>
+<h3 align="left">My Skills and Technologies</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,github,git" /></br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,github,git" />
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="50" height="50"/>
+    </br>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvEfXHLIJLACY1DI30rAzDlbekLkgFXYm1DA&s" alt="pandas" width="50" height="50"/>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="pandas" width="50" height="50"/>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
 </div>
