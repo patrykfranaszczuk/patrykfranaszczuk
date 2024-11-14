@@ -21,7 +21,7 @@
 - Git, GitHub
 - Windows, Linux, Bash
 - Active Directory, VM
-- JIRA, AWS, MSOffice
+- JIRA, AWS, MS Office
 
 <!-- <h3 align="left">My Skills and Technologies</h3>
 <div align="center">
