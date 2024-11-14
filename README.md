@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=I'm+Patryk+👋;" />
 </h1>
 
-- 🔭 I’d love to work as **Data Scientist**
-- 🤝 I’m looking for my first professional experience in data field
-- 🏙️ Where? **Lublin, Warsaw (hybrid), remotely**
+- 🔭 I'm a Computer Science graduate with a passion for technology
+- 🤝 I’m looking for my second professional experience in IT industry
+- 🏙️ Where? **Lublin, Warsaw, remotely**
 
 <div align="center"> 
   <a href="mailto:patryk.franaszczuk@gmail.com">
@@ -16,6 +16,14 @@
 </div>
 
 <h3 align="left">My Skills and Technologies</h3>
+
+- Python, Java, SQL
+- Git, GitHub
+- Windows, Linux, Bash
+- Active Directory, VM
+- JIRA, AWS
+
+<!-- <h3 align="left">My Skills and Technologies</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,github,git" />
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="50" height="50"/>
@@ -26,4 +34,4 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
 </div><br>
-<p>...and perfect command of English!</p>
+<p>...and perfect command of English!</p>  -->
