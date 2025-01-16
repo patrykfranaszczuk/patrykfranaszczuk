@@ -3,8 +3,7 @@
 </h1>
 
 - 🔭 I'm a Computer Science graduate with a passion for technology
-- 🤝 I’m looking for my second professional experience in IT industry
-- 🏙️ Where? **Lublin, Warsaw, remotely**
+- 🏙️ I currently work in IT remotely
 
 <div align="center"> 
   <a href="mailto:patryk.franaszczuk@gmail.com">
